@@ -1,2 +1,1 @@
-# RAG_pdf
- Chat with Pdfs
+Chat with Pdfs
