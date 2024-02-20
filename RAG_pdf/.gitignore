@@ -152,8 +152,8 @@ cython_debug/
 #.idea/
 
 #local files
-.idea
-pdfs
+.idea/
+pdfs/
 Null
 Untitled.ipynb
 untitled
